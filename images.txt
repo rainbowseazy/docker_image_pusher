@@ -4,7 +4,8 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-nvidia/cuda:12.3-base
+nvidia/cuda:12.3.0-base-ubuntu22.04
+nvidia/cuda:12.3.0-runtime-ubuntu22.04
 ubuntu:22.04
 
 semitechnologies/weaviate:1.19.0
