@@ -5,6 +5,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 
 
+flowiseai/flowise
 ollama/ollama
 nvidia/cuda:12.3.0-base-ubuntu22.04
 nvidia/cuda:12.3.0-runtime-ubuntu22.04
