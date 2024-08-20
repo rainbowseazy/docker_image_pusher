@@ -4,6 +4,7 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
+nvidia/cuda:12.6.0-devel-ubuntu22.04
 ollama/ollama:0.3.6
 searxng/searxng
 flowiseai/flowise
