@@ -4,7 +4,7 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-ollama/ollama:0.7.0
+ollama/ollama:0.10.1
 mintplexlabs/anythingllm:1.7.4
 nvidia/cuda:12.3.2-cudnn9-devel-ubuntu22.04
 nvidia/cuda:12.3.2-devel-ubuntu22.04
