@@ -6,4 +6,5 @@
 
 # n8nio/n8n:1.105.4
 ollama/ollama:0.30.10
+ubuntu:24.04
 
